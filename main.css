@@ -1,11 +1,14 @@
-#red{
+#red {
   color: red;
-  
-  
 }
 
-.red{
+.red {
   color: red;
-  
-  
+}
+
+.fixed-position {
+  position: fixed;
+}
+#fixed-position {
+  position: fixed;
 }
