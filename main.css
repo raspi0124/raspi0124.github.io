@@ -1,14 +1,14 @@
-#red {
+.red {
   color: red;
 }
 
-#fixed-position {
+.fixed-position {
   position: fixed;
 }
 
 
 
-#box {
+.box {
   border-style: solid;
   width: 80%;
 }
