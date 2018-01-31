@@ -12,3 +12,6 @@
 #fixed-position {
   position: fixed;
 }
+
+.box {
+  border-style: solid;
