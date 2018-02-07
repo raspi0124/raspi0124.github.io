@@ -15,6 +15,12 @@ max-height:100%;
 padding:25px;
 background-color:green;
 } 
+#contentA {
+max-width:100%; 
+max-height:100%;
+padding:25px;
+background-color:green;
+} 
 
 .flex{
     display: -webkit-flex;
