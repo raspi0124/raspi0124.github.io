@@ -1,15 +1,7 @@
-.red {
-  color: red;
+.wrapper{
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
 }
-
-.fixed-position {
-  position: fixed;
-}
-
-
-
-.box {
-  border-style: solid;
-  width: 80%;
-}
-
